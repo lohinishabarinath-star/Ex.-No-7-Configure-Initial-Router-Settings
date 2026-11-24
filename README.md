@@ -17,6 +17,8 @@ ________________________________________<br>
 ________________________________________<br>
 # Network Topology Diagram
 (Insert your Packet Tracer screenshot here showing Router R1 and PC with console connection)
+<img width="761" height="510" alt="image" src="https://github.com/user-attachments/assets/eea81847-d6de-4c83-b53c-1d17b3301b91" />
+
 ________________________________________
 # Procedure
 # Part 1: Verify the Default Router Configuration
@@ -80,10 +82,27 @@ ________________________________________
 ________________________________________
 # Output (Attach Screenshots)
 •	Console connection to router<br>
+<img width="1230" height="580" alt="image" src="https://github.com/user-attachments/assets/fb662d9d-ca7a-4972-a479-6e966685db70" />
+<img width="1356" height="483" alt="image" src="https://github.com/user-attachments/assets/d3499c80-3343-4311-8e63-6acaceebf54a" />
+
 •	Running configuration before and after<br>
+<img width="1917" height="1078" alt="Screenshot 2026-11-24 180954" src="https://github.com/user-attachments/assets/7725267d-3704-485d-bfe2-0e86fcef6762" />
+
+<img width="1917" height="1078" alt="Screenshot 2026-11-24 180910" src="https://github.com/user-attachments/assets/0edc9832-04ae-47ec-a530-9e9b366511e7" />
+
+
 •	MOTD banner display<br>
+<img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/9d0028db-7dcb-4d58-b817-981587c6410f" />
+
+
+
 •	Password prompts<br>
+<img width="1917" height="1078" alt="Screenshot 2026-11-24 181022" src="https://github.com/user-attachments/assets/ff39781c-2659-4db2-a743-c03df96eafe4" />
 •	Saved configuration in NVRAM and flash<br>
+
+
+<img width="1917" height="1078" alt="Screenshot 2026-11-24 181039" src="https://github.com/user-attachments/assets/d3c8f91f-522f-45ee-a4b5-9beb619850c3" />
+
 ________________________________________
 # Result
 The router was successfully configured with hostname, banner, encrypted passwords, and secure console access. The configuration was verified and saved to NVRAM and flash, ensuring persistence across reboots.
