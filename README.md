@@ -1,5 +1,5 @@
 ## Ex. No: 7 – Configure Initial Router Settings
-# Date: ___________
+# Date:  LOHINI S
 ________________________________________
 # Objective
 To perform basic router configuration tasks in Cisco Packet Tracer including:<br>
