@@ -87,12 +87,13 @@ ________________________________________
 
 •	Running configuration before and after<br>
 <img width="1917" height="1078" alt="Screenshot 2026-11-24 180954" src="https://github.com/user-attachments/assets/7725267d-3704-485d-bfe2-0e86fcef6762" />
+<img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/4b0330c6-2f0b-4f53-8370-1ff6146a7e7b" />
 
-<img width="1917" height="1078" alt="Screenshot 2026-11-24 180910" src="https://github.com/user-attachments/assets/0edc9832-04ae-47ec-a530-9e9b366511e7" />
 
 
 •	MOTD banner display<br>
-<img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/9d0028db-7dcb-4d58-b817-981587c6410f" />
+
+<img width="1917" height="1078" alt="Screenshot 2026-11-24 180910" src="https://github.com/user-attachments/assets/0edc9832-04ae-47ec-a530-9e9b366511e7" />
 
 
 
